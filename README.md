@@ -32,6 +32,7 @@ decade-sort
 # so cd into the place where you need to sort down from...
 
 cd /var/myapp/logs
+
 tst Jun-2019
 
 # That will get all files within /var/myapp/logs that have the "changed" file metadata from June 2019.
