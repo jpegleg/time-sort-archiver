@@ -21,7 +21,7 @@ cd /place/to/sort
 tst Nov-1999
 
 
-# Sort a decade worth of stuff, from 2009 to 2019.
+# Sort a decade worth of stuff, from 2010 to 2020.
 
 decade-sort
 
